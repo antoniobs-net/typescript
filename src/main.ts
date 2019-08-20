@@ -1,26 +1,5 @@
-/**
- * Public App Interface
- */
-interface IAppInfo {
-    getVersion(): string;
-    getAuthor(): string;
-    getWebSite(): string;
-}
 
-/**
- * Public App Class
- */
-class AppInfo implements IAppInfo {
-    getVersion(): string {
-        return '1.0';
-    }
-    getAuthor(): string {
-        return 'Antonio Bueno';
-    }
-    getWebSite(): string {
-        return 'www.antoniobs.net';
-    }
-}
+/// <reference path="./interfaces/AppInfo.ts" />
 
 
 window.onload = function () {

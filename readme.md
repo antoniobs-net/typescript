@@ -2,7 +2,13 @@
 
 Just some examples coded by Antonio Bueno <mail@antoniobs.net>
 
-# CLI
+# Setup
+
+First of all:
+
+    npm install -g typescript
+
+# Transpiling
 
 First just open:
 
@@ -13,3 +19,11 @@ And then just:
     tsc main.ts
 
 Finally refresh your browser :-)
+
+# Coding
+
+Modify
+
+    main.ts
+
+Happy coding!
