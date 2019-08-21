@@ -1,29 +1,31 @@
-# Typescript
+# Typescript Repo
 
-Just some examples coded by Antonio Bueno <mail@antoniobs.net>
+Just some examples coded by Antonio Bueno <mail@antoniobs.net> powered by www.antoniobs.net
 
-# Setup
+# How to use?
 
-First of all:
+This repo have examples organized by folders :-)
 
-    npm install -g typescript
+    - root
+       |- Typescript1    <- Example1
+       |- Typescript2    <- Example2
+       .
+       .
+       .
+       |- TypescriptN     <- ExampleN
 
-# Transpiling
+# Using examples
 
-First just open:
+I recommend use Visual Studio Code
 
-    .\index.html
+# Read me
 
-And then just:
+Please read each readme.md file for each example.
 
-    tsc main.ts
+# Donation
 
-Finally refresh your browser :-)
+Only if you want: https://antoniobs.net/donaciones
 
-# Coding
+# Code
 
-Modify
-
-    main.ts
-
-Happy coding!
+It's free, happy coding!
