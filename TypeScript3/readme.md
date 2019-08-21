@@ -2,7 +2,7 @@
 
 Just some examples coded by Antonio Bueno <mail@antoniobs.net> powered by www.antoniobs.net
 
-Classes and interfaces separation.
+Interface example.
 
 # Setup
 
