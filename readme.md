@@ -28,4 +28,4 @@ Only if you want: https://antoniobs.net/donaciones
 
 # Code
 
-It's free, happy coding!
+Happy coding!
